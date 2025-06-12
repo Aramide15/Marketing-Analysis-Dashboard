@@ -65,6 +65,8 @@ Total Conversion rate = SUM('Cleaned data'[ConversionRate])
 ```
 
 ### Results/Findings 
+<img width="633" alt="Marketing analysis Dashborad overview" src="https://github.com/user-attachments/assets/09bc7037-1ff0-41b4-862b-1436fc2100b4" />
+
 
 #### Insight 1
 ##### Total Revenue: 
@@ -108,6 +110,10 @@ and seasonal patterns.
 acquisition, loan-to-customer ratio) and track them in real-time. 
 - Rationale: This allows for early intervention and continuous optimization during campaign 
 cycles.
+
+
+
+<img width="632" alt="Product and Campaign dashboard overview" src="https://github.com/user-attachments/assets/5d9ea970-1e14-47f8-8148-54851548e2e8" />
 
 #### Insight 2
 #### Conversion Rate Overview 

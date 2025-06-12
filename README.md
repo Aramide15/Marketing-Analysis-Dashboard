@@ -65,10 +65,11 @@ Total Conversion rate = SUM('Cleaned data'[ConversionRate])
 ```
 
 ### Results/Findings 
-<img width="633" alt="Marketing analysis Dashborad overview" src="https://github.com/user-attachments/assets/09bc7037-1ff0-41b4-862b-1436fc2100b4" />
-
 
 #### Insight 1
+
+<img width="633" alt="Marketing analysis Dashborad overview" src="https://github.com/user-attachments/assets/09bc7037-1ff0-41b4-862b-1436fc2100b4" />
+
 ##### Total Revenue: 
 A combined total of ₦302.73 million was generated across all campaigns from 2023 to 2024. 
 - In 2023, revenue amounted to ₦215.83 million, with the LoanBlitz campaign contributing the 
@@ -112,10 +113,10 @@ acquisition, loan-to-customer ratio) and track them in real-time.
 cycles.
 
 
+#### Insight 2
 
 <img width="632" alt="Product and Campaign dashboard overview" src="https://github.com/user-attachments/assets/5d9ea970-1e14-47f8-8148-54851548e2e8" />
 
-#### Insight 2
 #### Conversion Rate Overview 
 A total conversion rate of 950.76 was recorded across all campaigns between 2023 and 2024. 
 - Kano maintained the highest overall conversion rate across the two years. 
